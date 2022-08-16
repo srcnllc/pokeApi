@@ -1,0 +1,62 @@
+.pokeDetail{
+    height: 83vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pokeDetailCart{
+    width: 100%;
+    height: 70%;
+    display: flex;
+}
+.pokeImg{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pokeImg img{
+    width: 50%;
+    height: auto;
+}
+.pokeInfo{
+    width: 58%;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+.title h1{
+    text-shadow: 0 0 3px #FF0000;
+}
+.title span{
+    font-size: 35px;
+    padding: 1px;
+    color: black;
+    box-shadow:inset 0 0 5px #FF0000;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 15px;
+}
+.pokeInfo .bio{
+    width: 100%;
+    overflow-y: scroll;
+}
+.features{
+    display: flex;
+    flex-wrap: wrap;
+}
+.features h3 , .bio h3{
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 80%;
+    margin: 15px auto;
+}
+.stats , .abilities{
+    width: 370px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}

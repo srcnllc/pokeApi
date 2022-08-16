@@ -1,0 +1,31 @@
+.pokeCart{
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+    cursor: pointer;
+}
+.pokeCart:hover{
+    transform: scale(1.1);
+    transition: all .1s ease-in-out;
+}
+.pokeCart img{
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+}
+.pokeMain{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    color: black;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bold;
+}
