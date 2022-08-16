@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokeApi/static/css/main.fea2d190.css",
+    "main.js": "/pokeApi/static/js/main.88a0d593.js",
+    "static/media/logo.png": "/pokeApi/static/media/logo.3b684b9b7b22646ace33.png",
+    "static/media/poketop.png": "/pokeApi/static/media/poketop.90244a5dbc73518a2a82.png",
+    "index.html": "/pokeApi/index.html",
+    "main.fea2d190.css.map": "/pokeApi/static/css/main.fea2d190.css.map",
+    "main.88a0d593.js.map": "/pokeApi/static/js/main.88a0d593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea2d190.css",
+    "static/js/main.88a0d593.js"
+  ]
+}
