@@ -1,6 +1,6 @@
 # React İle pokeApi ile pokemon karakterleri projesi...
 
-DEMO_LİNK : https://srcnllc.github.io/PokeApi/
+DEMO_LİNK : https://srcnllc.github.io/pokeApi/
 
 Frontend Developer için çağımızın en fazla kullanılan framework olan "REACT.JS" öğrenirken pekiştirme yaptığğım ve yeni hooklar kullandığım bir örnek projedir.
 
